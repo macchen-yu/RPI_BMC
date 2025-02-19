@@ -6,8 +6,9 @@ workspace/
 *.dot
 *buildlist
 *.log
-conf_backup/
+conf_*/
 meta-evb-raspberrypi/
 openbmc/
 share/
+
 .vscode/
