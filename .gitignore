@@ -1,2 +1,4 @@
 bmcrpi_build/
 openbmc/
+share/
+.vscode/
