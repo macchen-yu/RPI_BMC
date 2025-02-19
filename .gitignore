@@ -1,4 +1,11 @@
-bmcrpi_build/
+downloads/
+sstate-cache/
+tmp/
+cache/
+
+conf/
+conf_backup/
+
 openbmc/
 share/
 .vscode/
