@@ -2,10 +2,12 @@ downloads/
 sstate-cache/
 tmp/
 cache/
-
-conf/
+workspace/
+*.dot
+*buildlist
+*.log
 conf_backup/
-
+meta-evb-raspberrypi/
 openbmc/
 share/
 .vscode/
